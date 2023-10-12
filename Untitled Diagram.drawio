@@ -1,25 +1,25 @@
-<mxfile host="app.diagrams.net" modified="2023-10-12T12:06:06.221Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rn4mxv3BUJ7IZBJkDlOy" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-12T12:53:08.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="0Nfh7t_LnbOzkEaLSkbi" version="22.0.4" type="github">
   <diagram name="Page-1" id="2N6Wb2aVzG4Ji5YahQMq">
-    <mxGraphModel dx="1354" dy="695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2200" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="SQbkd4GllS_RmYTBN98b-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbkd4GllS_RmYTBN98b-1" target="SQbkd4GllS_RmYTBN98b-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SQbkd4GllS_RmYTBN98b-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="SQbkd4GllS_RmYTBN98b-1" value="Mulai" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="230" y="6" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SQbkd4GllS_RmYTBN98b-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbkd4GllS_RmYTBN98b-8" target="SQbkd4GllS_RmYTBN98b-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SQbkd4GllS_RmYTBN98b-8" value="Angka" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="SQbkd4GllS_RmYTBN98b-8" value="Angka" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="230" y="146" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SQbkd4GllS_RmYTBN98b-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbkd4GllS_RmYTBN98b-10" target="SQbkd4GllS_RmYTBN98b-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SQbkd4GllS_RmYTBN98b-10" value="Tebakan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="SQbkd4GllS_RmYTBN98b-10" value="Tebakan" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="230" y="286" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="SQbkd4GllS_RmYTBN98b-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbkd4GllS_RmYTBN98b-12" target="SQbkd4GllS_RmYTBN98b-14">
@@ -28,10 +28,10 @@
         <mxCell id="SQbkd4GllS_RmYTBN98b-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbkd4GllS_RmYTBN98b-12" target="SQbkd4GllS_RmYTBN98b-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SQbkd4GllS_RmYTBN98b-12" value="Angka &amp;lt; Tebakan" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="SQbkd4GllS_RmYTBN98b-12" value="Angka &amp;lt; Tebakan" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="230" y="396" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SQbkd4GllS_RmYTBN98b-14" value="&quot;Angka milikku lebih kecil&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="SQbkd4GllS_RmYTBN98b-14" value="&quot;Angka milikku lebih kecil&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="390" y="416" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SQbkd4GllS_RmYTBN98b-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbkd4GllS_RmYTBN98b-16" target="SQbkd4GllS_RmYTBN98b-18">
@@ -40,10 +40,10 @@
         <mxCell id="SQbkd4GllS_RmYTBN98b-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbkd4GllS_RmYTBN98b-16" target="SQbkd4GllS_RmYTBN98b-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SQbkd4GllS_RmYTBN98b-16" value="Angka &amp;gt; Tebakan" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="SQbkd4GllS_RmYTBN98b-16" value="Angka &amp;gt; Tebakan" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="230" y="596" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SQbkd4GllS_RmYTBN98b-18" value="&quot;Angka milikku lebih besar&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="SQbkd4GllS_RmYTBN98b-18" value="&quot;Angka milikku lebih besar&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="390" y="616" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="SQbkd4GllS_RmYTBN98b-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbkd4GllS_RmYTBN98b-20" target="SQbkd4GllS_RmYTBN98b-22">
@@ -52,13 +52,13 @@
         <mxCell id="SQbkd4GllS_RmYTBN98b-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="SQbkd4GllS_RmYTBN98b-20" target="SQbkd4GllS_RmYTBN98b-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SQbkd4GllS_RmYTBN98b-20" value="Angka = Tebakan" style="rhombus;whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="SQbkd4GllS_RmYTBN98b-20" value="Angka = Tebakan" style="rhombus;whiteSpace=wrap;html=1;rounded=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" vertex="1" parent="1">
           <mxGeometry x="230" y="796" width="120" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="SQbkd4GllS_RmYTBN98b-22" value="&quot;Benar&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="SQbkd4GllS_RmYTBN98b-22" value="&quot;Benar&quot;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rounded=1;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" vertex="1" parent="1">
           <mxGeometry x="390" y="816" width="200" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="SQbkd4GllS_RmYTBN98b-24" value="Selesai" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+        <mxCell id="SQbkd4GllS_RmYTBN98b-24" value="Selesai" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
           <mxGeometry x="230" y="1026" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
